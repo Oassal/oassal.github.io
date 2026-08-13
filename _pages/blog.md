@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /pub/
+permalink: /blog/
 title: Research
 classes: wide
 author_profile: true
