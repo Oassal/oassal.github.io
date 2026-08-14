@@ -10,4 +10,4 @@ classes: wide
   <p>
     <strong>posts.</strong> 
   </p>
-</div>ss
+</div>
