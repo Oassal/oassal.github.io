@@ -8,8 +8,8 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Blog"
-    url: /blog/
+  - title: "Posts"
+    url: /posts/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
