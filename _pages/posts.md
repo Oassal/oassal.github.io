@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-permalink: /post/
+permalink: /posts/
 layout: posts
 author_profile: true
 classes: wide
@@ -10,4 +10,4 @@ classes: wide
   <p>
     <strong>posts.</strong> 
   </p>
-</div>
+</div>ss
