@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+
+  <script src="https://unpkg.com/remark@latest.min.js"></script>
+
+  <style>
+    body {
+      margin: 0;
+    }
+
+    textarea {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+<textarea id="source">
+{{ content }}
+</textarea>
+
+<script>
+  var slideshow = remark.create({
+    navigation: {
+      scroll: false
+    }
+  });
+</script>
+
+</body>
+</html>
