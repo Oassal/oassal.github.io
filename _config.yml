@@ -349,3 +349,7 @@ defaults:
       share: true
       related: true
 
+collections:
+  presentations:
+    output: true
+    permalink: /slides/:path/
